@@ -1,5 +1,3 @@
-{% include navigation.html %}
-
-
+{% include navbar.html %}
 
 # Test Prep Study
