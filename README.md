@@ -1,4 +1,4 @@
-{% include_relative navbar.md %}
+{% include navbar.html %}
 
 # <u> Welcome to Everitt Cheng's Github Page </u>
 All things CSP related to Everitt Cheng
