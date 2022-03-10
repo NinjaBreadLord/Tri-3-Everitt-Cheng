@@ -1,4 +1,5 @@
-{% include_relative navbar.md %}
+{% include navbar.html %}
+
 
 
 # Hello

@@ -1,4 +1,5 @@
-//{% include_relative navbar.md %}
+{% include navigation.html %}
+
 
 
 # Data Structures
