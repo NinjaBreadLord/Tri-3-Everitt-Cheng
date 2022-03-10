@@ -1,7 +1,4 @@
----
-title: Test Prep
-layout: template
-filename: testprep
---- 
+{% include template.html %}
+
 
 # Test Prep Study

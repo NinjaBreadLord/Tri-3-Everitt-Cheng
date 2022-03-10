@@ -1,8 +1,5 @@
----
-title: Data Structures
-layout: template
-filename: datastructures
---- 
+{% include template.html %}
+
 
 # Data Structures
 
