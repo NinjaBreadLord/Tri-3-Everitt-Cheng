@@ -14,3 +14,6 @@ All things CSP related to Everitt Cheng
 # <u> Team Repository</u>
 
 ### [Repo](https://github.com/NinjaBreadLord/grup-grass)
+
+## <u>Week 0</u>
+###[Week 0 Review Ticket](https://github.com/NinjaBreadLord/grup-grass/issues/3)
