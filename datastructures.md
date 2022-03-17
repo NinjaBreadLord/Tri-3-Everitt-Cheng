@@ -33,4 +33,5 @@ Christmas Tree and Tester -
 
 
 ## Repl
-{% include replinclude.html %}
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@EverittC/Tri-3-Everitt-Cheng#repl/menu.py?embed=true"></iframe>
+
