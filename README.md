@@ -8,9 +8,13 @@ All things CSP related to Everitt Cheng
 1. [GitHub Pages](https://github.com/NinjaBreadLord/Tri-3-Everitt-Cheng/blob/main/README.md#github-pages)
 2. [Team Repo](https://github.com/NinjaBreadLord/Tri-3-Everitt-Cheng/blob/main/README.md#team-repository)
 3. [Week 0 ](https://github.com/NinjaBreadLord/Tri-3-Everitt-Cheng/blob/main/README.md#week-0)
+4. [Week 0 ](https://github.com/NinjaBreadLord/Tri-3-Everitt-Cheng/blob/main/README.md#week-1)
 
 ## <u>Week 0</u>
 ### [Week 0 Review Ticket](https://github.com/NinjaBreadLord/Tri-3-Everitt-Cheng/issues/1)
+
+## <u>Week 1</u>
+### [Week 1 Review Ticket](https://github.com/NinjaBreadLord/Tri-3-Everitt-Cheng/issues/2)
 
 ## <u>GitHub Pages</u>
 ### [Link to the Repl](https://replit.com/@EverittC/Tri-3-Everitt-Cheng#repl/menu.py)
