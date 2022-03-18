@@ -67,6 +67,6 @@ def recursiveLoop(n):
       recursiveLoop(n + 1)
   return 
   
-def recurisveRun():
+def recursiveRun():
   print("Recursive Loop: ")
-  recursiveLoop(len(InfoDb))
+  recursiveLoop(0)

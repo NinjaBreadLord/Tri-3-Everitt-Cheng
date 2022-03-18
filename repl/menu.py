@@ -20,7 +20,7 @@ main_menu = [
 iteration_list = [
   ["For Loop to print all of InfoDb", Info.forLoop],
   ["While Loop to print all of InfoDb", Info.whileLoop ],
-  ["Recursive Loop to print all of InfoDb", Info.recurisveRun]
+  ["Recursive Loop to print all of InfoDb", Info.recursiveRun]
 ]
 
 
