@@ -4,6 +4,10 @@
 # <u> Welcome to Everitt Cheng's Github Page </u>
 All things CSP related to Everitt Cheng
 
+Notes and actions for each CSP unity is on the testPrep page: https://ninjabreadlord.github.io/Tri-3-Everitt-Cheng/testprep
+Repl/python projects as well as code snippets for each of them on the dataStructures page: https://ninjabreadlord.github.io/Tri-3-Everitt-Cheng/datastructures
+Collegeboard create task details and runtime on the collegeboard page: https://ninjabreadlord.github.io/Tri-3-Everitt-Cheng/collegeboard
+
 ## <u> Table of Contents </u>
 1. [GitHub Pages](https://github.com/NinjaBreadLord/Tri-3-Everitt-Cheng/blob/main/README.md#github-pages)
 2. [Team Repo](https://github.com/NinjaBreadLord/Tri-3-Everitt-Cheng/blob/main/README.md#team-repository)
