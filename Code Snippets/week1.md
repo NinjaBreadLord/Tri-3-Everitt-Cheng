@@ -48,6 +48,21 @@ def infoTester():
   n = (input("List the index of the student you want: " ))
   print_info(int(n))
  ```
+ Addition of a submenu to showcase the different loops - 
+ ```
+ iteration_list = [
+  ["For Loop to print all of InfoDb", Info.forLoop],
+  ["While Loop to print all of InfoDb", Info.whileLoop ],
+  ["Recursive Loop to print all of InfoDb", Info.recursiveRun]
+]
+def iterationMenu():
+    title = "Iteration Menu" + banner
+    buildMenu(title, iteration_list)
+ ```
+ Appended onto the main menu - 
+ ```
+ menu_list.append(["Iteration to print Info", iterationMenu],)
+  ```
  Different loops(For,While, and Recursive) all printing out all the data of InfoDb - 
  ```
  def forLoop():
@@ -90,3 +105,4 @@ def fibonacciTester():
       print("Invalid integer(Check if value is negative)")
 ```
  
+{% include replinclude.html %}
