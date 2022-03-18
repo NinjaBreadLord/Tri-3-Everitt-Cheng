@@ -13,11 +13,11 @@ All things CSP related to Everitt Cheng
 ### [Week 0 Review Ticket](https://github.com/NinjaBreadLord/Tri-3-Everitt-Cheng/issues/1)
 
 ## <u>GitHub Pages</u>
+### [Link to the Repl](https://replit.com/@EverittC/Tri-3-Everitt-Cheng#repl/menu.py)
 
 ### [Link to GitHub Pages](https://ninjabreadlord.github.io/Tri-3-Everitt-Cheng)
 ### [Link to Test Prep Page](https://ninjabreadlord.github.io/Tri-3-Everitt-Cheng/testprep)
 ### [Link to Data Structures project Page](https://ninjabreadlord.github.io/Tri-3-Everitt-Cheng/datastructures)
-- ### [Link to the Repl](https://replit.com/@EverittC/Tri-3-Everitt-Cheng#repl/menu.py)
 ### [Link to Collegeboard/Create Task Page](https://ninjabreadlord.github.io/Tri-3-Everitt-Cheng/collegeboard)
 
 # <u> Team Repository</u>
