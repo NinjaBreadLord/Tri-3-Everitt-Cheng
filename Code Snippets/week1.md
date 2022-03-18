@@ -1,3 +1,5 @@
+{% include navbar.html %}
+
 Creating the InfoDb and creating functions that print out the info and the tester to be put into the menu -
 ```InfoDb = []
 # List with dictionary records placed in a list  
