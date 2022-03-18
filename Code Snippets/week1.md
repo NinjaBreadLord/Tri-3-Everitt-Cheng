@@ -1,4 +1,4 @@
-Creating the InfoDb and creating functions that print out the info and the tester to be put into the menu
+Creating the InfoDb and creating functions that print out the info and the tester to be put into the menu -
 ```InfoDb = []
 # List with dictionary records placed in a list  
 InfoDb.append({  
@@ -46,4 +46,47 @@ def print_info(n):
 
 def infoTester():
   n = (input("List the index of the student you want: " ))
-  print_info(int(n))```
+  print_info(int(n))
+ ```
+ Different loops(For,While, and Recursive) all printing out all the data of InfoDb - 
+ ```
+ def forLoop():
+  print("For Loop: ")
+  for i in range(len(InfoDb)):
+    print_info(i)
+
+def whileLoop():
+  print("While Loop: ")
+  g = 0
+  while g < len(InfoDb):
+    print_info(g)
+    g += 1
+    
+def recursiveLoop(n):
+  if n < len(InfoDb):
+      print_info(n)
+      recursiveLoop(n + 1)
+  return 
+  
+def recursiveRun():
+  print("Recursive Loop: ")
+  recursiveLoop(0)
+ ```
+ Fibonacci Code and Tester/Outputter - 
+ ```
+ 
+def fibonacci(n):
+    if n == 1 or n == 0:
+        return 1
+    return (fibonacci(n-1) + fibonacci(n-2))
+
+def fibonacciTester():
+    n = int(input("Enter a number: "))
+    try:
+      print("Sequence of: ", n , " numbers is" )
+      for i in range(0,n):
+        print( "=" * 5, "\n", fibonacci(i))
+    except:
+      print("Invalid integer(Check if value is negative)")
+```
+ 
