@@ -1,0 +1,2 @@
+language = "nodejs"
+run = "python repl/menu.py"
