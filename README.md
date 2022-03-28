@@ -15,6 +15,10 @@ Collegeboard create task details and runtime on the collegeboard [page](https://
 2. [Team Repo](https://github.com/NinjaBreadLord/Tri-3-Everitt-Cheng/blob/main/README.md#team-repository)
 3. [Week 0 ](https://github.com/NinjaBreadLord/Tri-3-Everitt-Cheng/blob/main/README.md#week-0)
 4. [Week 1 ](https://github.com/NinjaBreadLord/Tri-3-Everitt-Cheng/blob/main/README.md#week-1)
+5. [Week 2](https://github.com/NinjaBreadLord/Tri-3-Everitt-Cheng/blob/main/README.md#week-2)
+
+## <u>Week 2</u>
+### [Week 2 Review Ticket](https://github.com/NinjaBreadLord/Tri-3-Everitt-Cheng/issues/3)
 
 ## <u>Week 1</u>
 ### [Week 1 Review Ticket](https://github.com/NinjaBreadLord/Tri-3-Everitt-Cheng/issues/2)
