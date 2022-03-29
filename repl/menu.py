@@ -1,22 +1,39 @@
-import ageswap
-import matrix
-import pattern
-import christmas
-import Info
-import fibonacci
-
+from Week0 import ageswap
+from Week0 import matrix
+from Week0 import pattern
+from Week0 import christmas
+from Week1 import Info
+from Week1 import fibonacci
+from Week2 import factorial
+from Week2 import imperativeprime
+from Week2 import oopprime
+from Week2 import palindrome
 
 main_menu = [
+    
+]
+#week 0 submenu
+week0_list = [
     ["Swap", ageswap.swapTester],
     ["Matrix", matrix.matrixTester2],
     ["Pattern", pattern.cake],
-    ["Tree", christmas.christmastester],
-    ["Fibonacci", fibonacci.fibonacciTester],
-    ["InfoDb(Just printing specific index)", Info.infoTester],
-    #["Menu Two", ]
+    ["Tree", christmas.christmastester]
+]
+#week 1 submenu
+week1_list = [
+  ["Fibonacci", fibonacci.fibonacciTester],
+  ["InfoDb(Just printing specific index)", Info.infoTester]
 ]
 
+#week 2 submenu
+week2_list = [
+  ["Factorial Class", factorial.factorialTester],
+  ["Prime Function Imperative", imperativeprime.primeTester],
+  ["Prime Function OOP", oopprime.primeOOPTester],
+  ["Palindrome Extra Credit", palindrome.palindromeTester]
+]
 
+# Second menu for iteration
 iteration_list = [
   ["For Loop to print all of InfoDb", Info.forLoop],
   ["While Loop to print all of InfoDb", Info.whileLoop ],
@@ -31,13 +48,28 @@ banner = f"\n{border}\nPlease Select An Option\n{border}"
 def menu():
     title = "Function Menu" + banner
     menu_list = main_menu.copy()
-    menu_list.append(["Iteration to print Info", iterationMenu],)
+    menu_list.append(["Week 0",week0Menu])
+    menu_list.append(["Week 1",week1Menu])
+    menu_list.append(["Week 2",week2Menu])
     buildMenu(title, menu_list)
   
 def iterationMenu():
-    title = "Iteration Menu" + banner
-    buildMenu(title, iteration_list)
+  title = "Iteration Menu" + banner
+  buildMenu(title, iteration_list)
+
+def week0Menu():
+  title = "Week 0 Menu" + banner
+  buildMenu(title, week0_list)
   
+def week1Menu():
+  title = "Week 1 Menu" + banner
+  week1_list.append(["Iteration to print Info", iterationMenu],)
+  buildMenu(title, week1_list)
+
+def week2Menu():
+  title = "Week 2 Menu" + banner
+  buildMenu(title, week2_list)
+
 def buildMenu(banner, options):
 
     print(banner)
