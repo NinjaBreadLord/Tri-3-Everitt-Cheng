@@ -1,3 +1,6 @@
+{% include navbar.html %}
+
+
 Factorial Class 
 ```
 class Factorial:
