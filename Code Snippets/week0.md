@@ -3,7 +3,8 @@
 
 ## Week 0 Code Snippets
 Menu -
- ``` main_menu = [
+ ``` 
+ main_menu = [
     ["Swap", ageswap.swapTester],
     ["Matrix", matrix.matrixTester2],
     ["Pattern", pattern.cake],
@@ -14,7 +15,8 @@ Menu -
  ``` 
 
 Ageswap Code with Tester -
- ``` def ageSwap(age1,age2):
+ ``` 
+ def ageSwap(age1,age2):
   # age1 = input("age 1 :")
   # age2 = input("age 2 :")
   if(age1 > age2):
@@ -33,7 +35,8 @@ def swapTester():
 
 
 Matrix Code and Tester -
-``` def matrix(list):
+```
+def matrix(list):
       for i in list:
          print(*i) 
     def matrixTester2():
@@ -42,7 +45,8 @@ Matrix Code and Tester -
  ```
 
 Cake Pattern -
-```def cake_print(position):
+```
+def cake_print(position):
     print(ANSI_HOME_CURSOR)
     print(CAKE_COLOR)
     ck = " " * position
