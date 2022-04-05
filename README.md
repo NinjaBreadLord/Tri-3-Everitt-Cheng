@@ -16,6 +16,7 @@ Collegeboard create task details and runtime on the collegeboard [page](https://
 3. [Week 0 ](https://github.com/NinjaBreadLord/Tri-3-Everitt-Cheng/blob/main/README.md#week-0)
 4. [Week 1 ](https://github.com/NinjaBreadLord/Tri-3-Everitt-Cheng/blob/main/README.md#week-1)
 5. [Week 2](https://github.com/NinjaBreadLord/Tri-3-Everitt-Cheng/blob/main/README.md#week-2)
+6. [Algorthmic Final](https://github.com/NinjaBreadLord/Tri-3-Everitt-Cheng/blob/main/README.md#algorithmic-final)
 
 ## <u>Algorithmic Final</u>
 ### [Algorithmic Final Review Ticket](https://github.com/NinjaBreadLord/Tri-3-Everitt-Cheng/issues/4)
