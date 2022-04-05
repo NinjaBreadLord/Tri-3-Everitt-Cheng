@@ -37,3 +37,6 @@ if answer.lower() == 'y':
 else:
     print('Try again when you are ready')
     exit()
+mark = (score/total_questions)*100
+print('You scored:',mark, 'percent')
+print('See you next time')
