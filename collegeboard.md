@@ -4,7 +4,7 @@
 
 # College Board 
 
-# [Quiz 1 Corrections](https://ninjabreadlord.github.io/Tri-3-Everitt-Cheng/tests/quiz1)
+## [Quiz 1 Corrections](https://ninjabreadlord.github.io/Tri-3-Everitt-Cheng/tests/quiz1)
 
 3ai. The overall purpose of this program is to work as a guessing game for the user, which inputs a value and guesses until he gets the number in the defined range. 
 
