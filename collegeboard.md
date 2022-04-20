@@ -3,6 +3,9 @@
 
 
 # College Board 
+
+# [Quiz 1 Corrections](https://ninjabreadlord.github.io/Tri-3-Everitt-Cheng/tests/quiz1)
+
 3ai. The overall purpose of this program is to work as a guessing game for the user, which inputs a value and guesses until he gets the number in the defined range. 
 
 3aii. The user enters the function with input parameters, inputs a low value and then a high value. Then they guess the random value until they get it with hints on whether the guessed value is too high or too low. THen after guessing correctly the game shows his guesses and then asks if wants to replay with the same predefined amount.
