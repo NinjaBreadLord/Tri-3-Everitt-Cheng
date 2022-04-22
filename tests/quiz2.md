@@ -1,3 +1,7 @@
+{% include navbar.html %}
+
+
+
 # Quiz 2 Corrections
 
 **Q1** Original Answer: A, this is incorrect because parallel solutions are always limited by sequential operation, they cannot be broken into different parallel solutions. D is a better solution because it is accurate to what was just said
