@@ -1,3 +1,7 @@
+{% include navbar.html %}
+
+
+
 # Quiz 1 Corrections
 
 **Q8**: Original Answer: B, wrong because storing information into a database doesn’t specifically make the information safe. A is a better answer because the needs of each customer are recorded, and thus improving decisions in business would be improved.
