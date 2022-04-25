@@ -4,7 +4,7 @@
 # <u> Welcome to Everitt Cheng's Github Page </u>
 All things CSP related to Everitt Cheng
 
-Notes and actions for each CSP is on the testPrep [page](https://ninjabreadlord.github.io/Tri-3-Everitt-Cheng/testprep)
+Notes and actions for each CSP unit is on the testPrep [page](https://ninjabreadlord.github.io/Tri-3-Everitt-Cheng/testprep)
 
 Repl/python projects as well as code snippets for each of them on the dataStructures [page](https://ninjabreadlord.github.io/Tri-3-Everitt-Cheng/datastructures)
 
