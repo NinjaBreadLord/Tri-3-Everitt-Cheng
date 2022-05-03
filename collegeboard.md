@@ -6,6 +6,8 @@
 
 ## [Quiz 1 Corrections](https://ninjabreadlord.github.io/Tri-3-Everitt-Cheng/tests/quiz1)
 ## [Quiz 2 Corrections](https://ninjabreadlord.github.io/Tri-3-Everitt-Cheng/tests/quiz2)
+## [Quiz 3 Corrections](https://ninjabreadlord.github.io/Tri-3-Everitt-Cheng/tests/quiz3)
+
 
 
 ## Create Task Writeup
