@@ -3,6 +3,7 @@ Q3 - D is wrong because algorithm 3 does not work properly, it does not determin
 Q4 - B is wrong protocols are run through software not hardware. D is right because the internet do run on processes not reliant on the manufacturing. 
 
 Q13 - B is incorrect because this runs for all of the values to be multiplied by 7. Only the ones greater than 25 should be multiplied by 7, the rest is multiplied by 5
+
 Q18 - D is incorrect because True is going to be applied for all thigns. C is better because -1 and then a positive value would cause the program to break. 
 
 Q36 - D is right but C is incorrect, B would be better because it displays a check minus when it shouldn't be. The else statement causes errors.
