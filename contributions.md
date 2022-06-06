@@ -1,6 +1,7 @@
 # Contributions to Team grupy grass repository over the course of Trimester 3
 
 ## Role - Design Manager
+###[Repo](https://github.com/NinjaBreadLord/grup-grass)
 ### [Commits](https://github.com/NinjaBreadLord/grup-grass/commits?author=NinjaBreadLord)
 
 ---
