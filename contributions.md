@@ -1,3 +1,4 @@
+{% includes navbar.html %}
 # Contributions to Team grupy grass repository over the course of Trimester 3
 
 ## Role - Design Manager
